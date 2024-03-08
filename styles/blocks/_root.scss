@@ -1,0 +1,22 @@
+
+// Шрифты //
+@import url(https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,regular,500,600,700,800,900,200);
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700);
+@font-face {
+    font-family: "NEXT ART";
+    src: url("/fonts/NEXT ART_Bold.otf");
+}
+:root {
+    // Шрифты //
+    --font-family: "Nunito Sans", sans-serif;
+    --second-family: "NEXT ART", sans-serif;
+    --third-family: "Inter", sans-serif;
+    // Button //
+    --btn-bg-color:#1A3E3E;
+    --btn-br:4px;
+
+  }
+.container{
+    max-width: 1180px;
+    margin: 0 auto;
+}
